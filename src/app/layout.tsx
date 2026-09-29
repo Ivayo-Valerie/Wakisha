@@ -68,6 +68,13 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/assets/wakisha-logo.jpg' },
+    ],
+    apple: '/assets/wakisha-logo.jpg',
+  },
 };
 
 export default function RootLayout({

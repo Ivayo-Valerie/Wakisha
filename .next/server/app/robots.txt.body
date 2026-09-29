@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /api/
-Disallow: /_next/
-
-Host: https://www.wakishaelectricalengineering.com
-Sitemap: https://www.wakishaelectricalengineering.com/sitemap.xml
